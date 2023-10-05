@@ -111,7 +111,7 @@ FRONTEND_STORE_URL=http://localhost:3001
 STRIPE_WEBHOOK_SECRET=
 ```
 
-### Connect to PlanetScale and Push Prisma
+### Connect to Railway or PlanetScale and Push Prisma
 ```shell
 npx prisma generate
 npx prisma db push
