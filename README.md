@@ -8,8 +8,8 @@
 ### Create Products
 <img src="./Screenshots-Dashboard/products.png">
 
-if wannt to see the "front-end Store "
-Source Code : 
+### if wannt to see the "front-end Store " !
+Source Code : https://github.com/dhanubalde/Cms-Store-Nextjs.git
 
 
 Key Features:
