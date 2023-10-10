@@ -2,8 +2,11 @@
 # Full Stack 2023
 # E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, Postgresql
 
-# Admin DashBoard
+### Admin DashBoard
 <img src="./Screenshots-Dashboard/dashboard.png">
+
+### Create Products
+<img src="./Screenshots-Dashboard/products.png">
 Key Features:
 
 - We will be using Shadcn UI for the Admin!
