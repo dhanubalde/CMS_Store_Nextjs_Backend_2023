@@ -18,23 +18,56 @@ Goto Source Code : https://github.com/dhanubalde/Cms-Store-Nextjs.git
 
 Key Features:
 
-- We will be using Shadcn UI for the Admin!
-- Our admin dashboard is going to serve as both CMS, Admin and API!
-- You will be able to control mulitple vendors / stores through this single CMS! (For example you can have a "Shoe store" and a "Laptop store" and a "Suit store", and our CMS will generate API routes for all of those individually!)
-- You will be able to create, update and delete categories!
-- You will be able to create, update and delete products!
-- You will be able to upload multiple images for products, and change them whenever you want!
-- You will be able to create, update and delete filters such as "Color" and "Size", and then match them in the "Product" creation form.
-- You will be able to create, update and delete "Billboards" which are these big texts on top of the page. You will be able to attach them to a single category, or use them standalone (Our Admin generates API for all of those cases!)
-- You will be able to Search through all categories, products, sizes, colors, billboards with included pagination!
-- You will be able to control which products are "featured" so they show on the homepage!
-- You will be able to see your orders, sales, etc.
-- You will be able to see graphs of your revenue etc.
-- You will learn Clerk Authentication!
-- Order creation
-- Stripe checkout
-- Stripe webhooks
-- MySQL + Prisma + PlanetScale
+#### Shadcn UI for the Admin: 
+- You're planning to use Shadcn UI for the admin interface, which is likely a UI framework or library for creating the user interface.
+
+#### Admin Dashboard as CMS, Admin, and API: 
+- The admin dashboard will have multiple roles, serving as a content management system (CMS), an admin interface for managing the application, and also as an API for interacting with the application's data.
+
+#### Control Multiple Vendors/Stores: 
+- The system will support multiple vendors or stores. Each store might have its own unique content, such as products and categories.
+
+##### Categories Management: 
+- You can create, update, and delete categories. Categories help organize and classify products.
+
+#### Products Management: 
+- You can create, update, and delete products. Products are the items that vendors sell through your platform.
+
+#### Multiple Product Images: 
+- The system allows for uploading multiple images for products and changing them as needed. This feature enhances the product presentation.
+
+#### Filters (e.g., Color and Size): 
+- You can create, update, and delete filters like "Color" and "Size" and associate them with products. Filters help customers narrow down their product searches.
+
+#### Billboards Management: 
+- You can create, update, and delete billboards. Billboards are prominent text or promotional banners that can be attached to categories or used independently.
+
+#### Search and Pagination: 
+- Users can search through categories, products, sizes, colors, and billboards, with pagination for navigating search results efficiently.
+
+#### Featured Products: 
+- You can mark certain products as "featured" so that they are prominently displayed on the homepage or other relevant sections of the website.
+
+#### Order and Sales Management: 
+- The system allows you to track and manage orders and sales, providing valuable data and functionality for monitoring business operations.
+
+#### Revenue Graphs: 
+- Graphs and charts are available to visualize revenue and other performance metrics, helping you analyze the business's financial health.
+
+#### Clerk Authentication: 
+- Clerk is likely an authentication and authorization service, ensuring secure access to the admin dashboard and other parts of the system.
+
+#### Order Creation: 
+- This feature enables the creation of orders, likely for customers purchasing products from the vendors.
+
+#### Stripe Checkout: 
+- Integration with Stripe for processing payments, which is a common payment gateway solution.
+
+#### Stripe Webhooks: 
+- Stripe webhooks provide real-time notifications about events related to payments and transactions.
+
+#### Database and ORM: 
+- The technology stack includes MySQL as the database, Prisma as the Object-Relational Mapping (ORM) tool, and PlanetScale, which might be used for database scaling and management.
 
 
 
