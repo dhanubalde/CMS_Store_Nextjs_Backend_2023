@@ -3,7 +3,9 @@
 codeslinger 
 
 # E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, Postgresql
-
+```
+This system aims to provide a comprehensive solution for managing and selling products through various vendors or stores. It includes features for product and category management, a user-friendly admin interface, and integrated payment processing with Stripe. The technology stack you've mentioned appears to support these functionalities.
+```
 ### Admin DashBoard
 <img src="./Screenshots-Dashboard/dashboard.png">
 
